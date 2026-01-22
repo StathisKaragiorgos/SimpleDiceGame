@@ -1,5 +1,5 @@
 A browser-based dice game built as a practice project.
-This project simulates a dice roll for two players. Each time the page is refreshed, both players get a random dice value and a winner is displayed.
+This project simulates a dice roll for two players. Each time you click the play button, both players get a random dice value and a winner is displayed.
 
 Used:
 - HTML5
